@@ -3,7 +3,7 @@
   "displayName": "Tweaked Textures",
   "author": "TOLoneWolf",
   "description": "Changes I made to make it easier for me to see items on conveyors.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "hidden": true,
   "minGameVersion": "146",
   "dependencies": []
